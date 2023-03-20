@@ -8,8 +8,12 @@
 
 ### Dia y horario: 
 
+Lunes 18:30 / 20:30
+
 ### Profesor/a:
 
+Vilma Giuduce
+ 
 ### Temario:
 ### UNIDAD 1
 • Funciones de fila única Manipulación de casos.
