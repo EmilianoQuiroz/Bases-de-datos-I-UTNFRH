@@ -1,6 +1,6 @@
 # Bases-de-datos-I-UTNFRH
 
-![image](https://user-images.githubusercontent.com/78452543/226234634-4d158f59-7064-4fe8-9575-0e72c2e23e9b.png)
+![image](https://user-images.githubusercontent.com/78452543/226234746-aa1f979e-f301-4768-8ebb-11f2d60a853f.png)
 
 ## Diplomatura en Programacion UTNFRH. Materia Bases de datos I
 
